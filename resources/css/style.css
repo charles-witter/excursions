@@ -1,6 +1,6 @@
-* {
+body {
     background-color: black;
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
