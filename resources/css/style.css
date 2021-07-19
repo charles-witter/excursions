@@ -4,11 +4,11 @@ body {
 }
 
 header {
-    align-items: center;
+    text-align: center;
 }
 
 main {
-    align-items: center;
+    text-align: center;
 }
 
 footer {
@@ -20,7 +20,6 @@ h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 h2 {
@@ -37,3 +36,4 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+
